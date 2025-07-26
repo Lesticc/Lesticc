@@ -7,7 +7,7 @@
 <a href="https://lestic.com.br"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 
 ##
-🤖 Linguagens e tecnologías 
+🤖 Linguagens e tecnologias 
 <div style="display: inline_block"><br>
      <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      <!--<img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
